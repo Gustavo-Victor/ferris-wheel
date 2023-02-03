@@ -1,4 +1,4 @@
-# Ferris wheel
+<h1 align="center">Ferris Wheel 🎡</h1>
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
