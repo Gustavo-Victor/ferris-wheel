@@ -10,7 +10,7 @@
 
 ## 💻 Sobre
 
-Este projeto é uma página com um design de uma roda gigante animada em CSS. O projeto faz  de um curso da [freeCodeCamp](https://www.freecodecamp.org/) sobre [desenvolvimento web responsivo.](https://www.freecodecamp.org/learn/2022/responsive-web-design/). No projeto é para fins didáticos e tem o intuito de colocar em prática conceitos de animação em CSS. 
+Este projeto é uma página com um design de uma roda gigante animada em CSS. O projeto faz  de um curso da [freeCodeCamp](https://www.freecodecamp.org/) sobre [desenvolvimento web responsivo.](https://www.freecodecamp.org/learn/2022/responsive-web-design/). O projeto é para fins didáticos e tem o intuito de colocar em prática conceitos de animação em CSS. 
 
 
 ## 🦸‍♂️ Autor
